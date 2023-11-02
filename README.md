@@ -9,10 +9,15 @@ Slides for reference - https://docs.google.com/presentation/d/e/2PACX-1vT7nJYRov
 
 ## Challenge activities
 - Create a new local branch with all the changes from main, and checkout that branch
+  - >! git branch, git checkout
 - Make changes without committing and stash them. Then checkout main branch again
+  - >! git add, git commit, git stash, git checkout
 - Make additional changes to main branch and commit multiple times without pushing
+  - >! git add, git commit
 - Squash all unmerged commits and push to the remote repository
+  - >! git rebase -i HEAD~[number of commits to squash]. Check this resource https://www.internalpointers.com/post/squash-commits-into-one-git
 - Switch back to your local branch, pop the changes and push the branch to a remote branch of the same name
+  - >! git checkout, git stash pop, git add, git commit, git push -u origin [branch_name]
 
 ## Possible Issues
 - Unable to link your Git and GitHub account together
