@@ -3,8 +3,7 @@ import math
 # all functions should take in a numerical value and return a numerical value
 # rename your function
 def func1(num_a):
-    # placeholder return, replace with your own function
-    return -1
+    return num_a ** 2
 
 def func2(num_b):
     # placeholder return, replace with your own function
