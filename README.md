@@ -1,5 +1,5 @@
 # Git-Workshop-2023
-Slides for reference - https://docs.google.com/presentation/d/e/2PACX-1vT7nJYRovLzU8J--OhyiNsIbh__haA0gCPZLw4Nptsd4z7pfos7-8dsZdaTV8PUaukqsd4yfrMjxJkO/pub?start=false&loop=false&delayms=60000
+Slides for reference - https://docs.google.com/presentation/d/15mr6dgsPVxKN2CCUypVuiLynnewNuAAhR8HBcFjTDrI/edit#slide=id.g2914a6f9f14_0_11
 - Have one person fork this repository on GitHub and invite others as collaborators
   - To add collaborators: Settings → Collaborators
 - Have each person pull the project into their local repository
